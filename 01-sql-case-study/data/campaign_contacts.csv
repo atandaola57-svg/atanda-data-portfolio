@@ -1,0 +1,11 @@
+campaign_id,customer_id,contact_date,group_name,channel
+CMP_2025_01,C001,2025-01-05,test,email
+CMP_2025_01,C002,2025-01-05,control,email
+CMP_2025_01,C003,2025-01-05,test,sms
+CMP_2025_01,C004,2025-01-05,control,sms
+CMP_2025_01,C005,2025-01-05,test,email
+CMP_2025_01,C006,2025-01-05,control,email
+CMP_2025_01,C007,2025-01-05,test,push
+CMP_2025_01,C008,2025-01-05,control,push
+CMP_2025_01,C009,2025-01-05,test,email
+CMP_2025_01,C010,2025-01-05,control,email

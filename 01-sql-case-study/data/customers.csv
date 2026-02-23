@@ -1,0 +1,11 @@
+customer_id,signup_date,country,channel
+C001,2024-01-10,FR,web
+C002,2024-01-15,FR,store
+C003,2024-02-02,UK,web
+C004,2024-02-10,IT,web
+C005,2024-03-05,FR,store
+C006,2024-03-20,UK,web
+C007,2024-04-11,FR,web
+C008,2024-04-28,IT,store
+C009,2024-05-02,FR,web
+C010,2024-05-18,UK,store

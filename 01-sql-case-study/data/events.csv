@@ -1,0 +1,7 @@
+event_id,customer_id,event_date,event_type,source
+E001,C001,2025-01-05,open,email
+E002,C001,2025-01-05,click,email
+E003,C003,2025-01-05,open,sms
+E004,C005,2025-01-05,open,email
+E005,C007,2025-01-05,open,push
+E006,C009,2025-01-05,click,email
