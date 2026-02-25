@@ -1,4 +1,4 @@
--- RFM segmentation (simple, recruiter-friendly)
+-- RFM segmentation (simple)
 -- Recency: days since last order (from a reference date)
 -- Frequency: number of orders
 -- Monetary: total amount
